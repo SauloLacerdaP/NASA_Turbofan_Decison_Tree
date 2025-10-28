@@ -23,15 +23,11 @@ All code is implemented in **Python** across two Jupyter notebooks:
 
 ---
 
-## 📁 Project Structure
-├── data/
-│ ├── train_FD001_features.csv
-│ ├── test_FD001_features.csv
-│ ├── RUL_FD001.txt
-│ └── README_dataset.txt
-│
-├── notebooks/
-│ ├── NASA_prep.ipynb
-│ └── Decision_tree_models.ipynb
-│
-└── README.md
+## 🧰 Libraries Used
+
+- **Python 3.10**  
+- **pandas** – data manipulation and aggregation  
+- **NumPy** – numerical computations  
+- **scikit-learn** – model training, metrics, and tree visualization  
+- **Matplotlib** – plots and feature importance charts  
+- **Jupyter Notebook** – interactive workflow and experimentation environment  
