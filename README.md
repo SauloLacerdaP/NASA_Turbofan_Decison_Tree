@@ -26,8 +26,8 @@ All code is implemented in **Python** across two Jupyter notebooks:
 ## 🧰 Libraries Used
 
 - **Python 3.10**  
-- **pandas** – data manipulation and aggregation  
-- **NumPy** – numerical computations  
-- **scikit-learn** – model training, metrics, and tree visualization  
-- **Matplotlib** – plots and feature importance charts  
-- **Jupyter Notebook** – interactive workflow and experimentation environment  
+- **pandas** 
+- **NumPy**
+- **scikit-learn**
+- **Matplotlib** 
+ 
